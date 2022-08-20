@@ -1,0 +1,11 @@
+{
+	"murcav": "murcav",
+	"compile": "c",
+	"var": "var",
+	"str": "Str",
+	"int": "Int",
+	"dec": "Dec",
+	"const": "const",
+	"nil": "nil",
+	"print": "print"
+}
